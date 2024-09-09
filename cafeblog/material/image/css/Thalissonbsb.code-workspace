@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../SENAIFRONTEND/HTMLECSS/ATIVIDADE- Site de confeitaria"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Thalissonbsb",
+		"liveServer.settings.port": 5501
+	}
+}
